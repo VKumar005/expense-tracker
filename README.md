@@ -4,6 +4,8 @@ A Full-Stack Web Application to track, visualize, and analyze daily financial ex
 
 ## Live Demo
 [Click here to view the Live App](https://p2-expense-tracker.onrender.com)
+<img width="1902" height="564" alt="Screenshot 2026-04-28 145451" src="https://github.com/user-attachments/assets/1cd59a21-c826-4a92-9caa-0570978ec296" />
+<img width="1897" height="857" alt="Screenshot 2026-04-28 145439" src="https://github.com/user-attachments/assets/ed81cd95-f672-4a18-931c-c015f3a9cfcb" />
 
 ## Tech Stack
 * Backend: Python, Flask
